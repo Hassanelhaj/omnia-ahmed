@@ -28,7 +28,7 @@ const NavBar = () => {
           <span className="text-2xl">
             <BiPen className="w-10 h-10" />
           </span>
-          <span className="text-2xl uppercase font-bold ">Omina</span>
+          <span className="text-2xl uppercase font-bold ">Omnia</span>
         </Link>
         <div className="flex-col">
           <span
@@ -123,7 +123,7 @@ const NavBar = () => {
           <span className="text- mt-2">
             <BiPen className="text-8 lg:w-8 h-8 font-bold " />
           </span>
-          <span className="text-2xl uppercase font-bold">Omina</span>
+          <span className="text-2xl uppercase font-bold">Omnia</span>
         </section>
         <div className="hidden md:block ml-12 lg:ml-32">
           <ul className="flex justify-center items-center gap-6 font-medium">
