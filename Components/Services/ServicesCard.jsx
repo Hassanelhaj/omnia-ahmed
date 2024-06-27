@@ -9,9 +9,9 @@ const ServicesCard = ({ data }) => {
       <p className="text-4xl font-medium text-slate-800 ">{data.logo}</p>
       <div className="flex flex-col justify-center items-center gap-3 ">
         <h2 className="text-center font-semibold text-slate-800">{data.title}</h2>
-        <h2 className=" font-light text-gray-400 text-center">
+        {/* <h2 className=" font-light text-gray-400 text-center">
           {data.description}
-        </h2>
+        </h2> */}
       </div>
     </div>
   );

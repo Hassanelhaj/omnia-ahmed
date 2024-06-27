@@ -17,7 +17,20 @@ export const servicesList = [
 
   {
     id: 1,
-    title: "Content Packages ",
+    title: "Content Writng",
+    description:
+      "Profishinal Work With Social Media Manegement Services",
+    logo: <TfiWrite />,
+  },
+  {
+    id: 2,
+    title: "Social Media Management",
+    description:
+      "Profishinal Work With Social Media Manegement Services",
+    logo: <TfiWrite />,
+  }, {
+    id: 3,
+    title: "Marketing Plans",
     description:
       "Profishinal Work With Social Media Manegement Services",
     logo: <TfiWrite />,
